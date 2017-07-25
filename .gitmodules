@@ -1,3 +1,6 @@
 [submodule "art"]
 	path = art
 	url = https://github.com/Kingrealer/xposed_art_n.git
+[submodule "frameworks/base/cmds/app_process"]
+	path = frameworks/base/cmds/app_process
+	url = https://github.com/Kingrealer/xposed_app_process.git
